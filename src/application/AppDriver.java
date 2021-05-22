@@ -10,6 +10,9 @@ public class AppDriver {
 		// TODO Auto-generated method stub
 		new RetailManager();
 		System.out.println("test");
+		System.out.println("test2");
+		System.out.println("test3");
 	}
 
 }
+ 
